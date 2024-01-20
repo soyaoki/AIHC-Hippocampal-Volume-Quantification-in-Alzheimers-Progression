@@ -88,9 +88,3 @@ In the 3rd section of the project we will be working with three software product
 -   [DCMTK tools](https://dcmtk.org/)  for testing and emulating a modality. Note that if you are running a Linux distribution, you might be able to install dcmtk directly from the package manager (e.g.  `apt-get install dcmtk`  in Ubuntu)
 
 You can look at the rubric for this project  [here](https://review.udacity.com/#!/rubrics/3629/view). Let's get started!
-
-### Reference:
-
-* https://github.com/aaryapatel007/Hippocampal-Volume-Quantification-in-Alzheimer-Progression
-
-* https://github.com/rahulatrkm/Hippocampal-Volume-Quantification-in-Alzheimer-s-Progression
